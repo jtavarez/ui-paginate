@@ -1,5 +1,7 @@
 # ui-paginate
 
+![uiPaginate](http://jasontavarez.com/x/uipagination.png)
+
 Flexible pagination generation using pure javascript, no dependencies. Created to be as versatile as possible: you can let it create page links and split up element rows accordingly in your html, or use underlying data object to create your own interface and logic.
 
 ##### Caveats/Immediate goals
