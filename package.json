@@ -1,6 +1,6 @@
 {
   "name": "ui-paginate",
-  "version": "0.1.0",
+  "version": "0.1.11",
   "description": "Flexible pagination with pure javascript",
   "main": "dist/ui-paginate.js",
   "scripts": {
@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jtavarez/paginate.git"
+    "url": "git+https://github.com/jtavarez/ui-paginate.git"
   },
   "keywords": [
     "pagination",
-    "paginate"
+    "paginate",
+    "pager"
   ],
   "author": "Jason Tavarez <jt@jasontavarez.com> (http://jasontavarez.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jtavarez/paginate/issues"
+    "url": "https://github.com/jtavarez/ui-paginate/issues"
   },
-  "homepage": "https://github.com/jtavarez/paginate#readme",
+  "homepage": "https://github.com/jtavarez/ui-paginate#readme",
   "devDependencies": {
     "babel-cli": "^6.4.5",
     "babel-plugin-transform-es2015-modules-umd": "^6.4.3",

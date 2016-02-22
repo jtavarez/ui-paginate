@@ -34,7 +34,7 @@
   };
 
   /*!
-   * Paginate.js v0.1.0
+   * Paginate.js v0.1.11
    * (c) 2016 Jason Tavarez
    * Released under the MIT License.
    */
